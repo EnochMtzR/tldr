@@ -28,6 +28,10 @@
 
 `pass generate -c {{path/to/data}} {{num}}`
 
+- Remove a password
+
+`pass rm {{path/to/data}}`
+
 - Initialize a new Git repository (any changes done by pass will be committed automatically):
 
 `pass git init`
